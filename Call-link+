@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>تماس با Auto Gallery Erfan</title>
+  <link href="https://fonts.googleapis.com/css2?family=Vazirmatn&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #121212;
+      font-family: 'Vazirmatn', sans-serif;
+      color: #fff;
+      text-align: center;
+    }
+
+    .container {
+      padding: 50px 20px;
+      max-width: 600px;
+      margin: auto;
+    }
+
+    img.logo {
+      width: 180px;
+      margin-bottom: 30px;
+    }
+
+    h1 {
+      font-size: 28px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 18px;
+      margin-bottom: 30px;
+    }
+
+    .button {
+      display: block;
+      margin: 15px auto;
+      padding: 15px 25px;
+      font-size: 18px;
+      border-radius: 10px;
+      text-decoration: none;
+      transition: 0.3s;
+      width: 80%;
+      max-width: 300px;
+    }
+
+    .call-button {
+      background-color: #28a745;
+      color: white;
+    }
+
+    .call-button:hover {
+      background-color: #218838;
+    }
+
+    .whatsapp-button {
+      background-color: #25D366;
+      color: white;
+    }
+
+    .whatsapp-button:hover {
+      background-color: #1ebe5d;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="logo.jpg" alt="Auto Gallery Erfan" class="logo">
+    <h1>تماس با Auto Gallery Erfan</h1>
+    <p>برای ارتباط سریع با ما، از یکی از روش‌های زیر استفاده کنید:</p>
+
+    <a class="button call-button" href="tel:+989111516055">📞 تماس مستقیم</a>
+
+    <a class="button whatsapp-button" href="https://wa.me/989111516055" target="_blank">💬 ارسال پیام واتساپ</a>
+  </div>
+</body>
+</html>
